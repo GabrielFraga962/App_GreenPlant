@@ -32,7 +32,7 @@ Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil d
 
 ---
 
-## 🔖 Layout
+## 🖼️ Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
@@ -47,7 +47,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-## 📄 Licença
+## 📑 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
